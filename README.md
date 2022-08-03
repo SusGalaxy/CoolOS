@@ -1,2 +1,2 @@
 # Cool OS
-CoolOS for **Operating System**.
+CoolOS for **Best Operating System**.
