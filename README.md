@@ -21,6 +21,6 @@ CoolOS for **Best Operating System**.
 - **Display:** -
 #### Ultra Requirements:
 - **RAM:** 8GB or more than 4GB
-- **CPU:** Intel Core 6th or Higher or AMD 3rd or Higher
+- **CPU:** Intel Core 6th or Higher / AMD 3rd or Higher
 - **Storage:** 60GB Free Space (SSD)
 - **Display:** 8K, 4K or 1080p
