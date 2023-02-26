@@ -1,2 +1,2 @@
-# CoolOS
-CoolOS is **most coolest operating systems**
+# Cool OS
+Cool OS is **most coolest operating systems**
