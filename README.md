@@ -2,7 +2,7 @@
 Cool OS is **most coolest operating system.**
 
 ### Downloads (For Raspberry Pi/VMware)
-Visit: [Click here](https://github.com/SusGalaxy/CoolOS/tags)
+[Click here](https://github.com/SusGalaxy/CoolOS/tags)
 
 ### Reviews & Screenshot
 ![Cool OS Desktop](https://github.com/SusGalaxy/CoolOS/blob/main/Images/Cool%20OS%20X1-2023-02-28-15-45-57.png)
