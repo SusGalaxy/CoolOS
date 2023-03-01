@@ -1,5 +1,5 @@
 # Cool OS
-Cool OS is **most coolest operating system.**
+Cool OS is **most coolest operating system.** Based on Ubuntu.
 
 ### Downloads (For Raspberry Pi/VMware)
 [Click here](https://github.com/SusGalaxy/CoolOS/tags)
