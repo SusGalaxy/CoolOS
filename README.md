@@ -9,3 +9,6 @@ Cool OS is **most coolest operating system.** Free and open-source. Based on Ubu
 ![Cool OS Taskbar](https://github.com/SusGalaxy/CoolOS/blob/main/Images/Cool%20OS%20X1-2023-02-28-15-46-10.png)
 ![Cool OS Start Menu](https://github.com/SusGalaxy/CoolOS/blob/main/Images/Cool%20OS%20X1-2023-02-28-15-46-16.png)
 ![Cool OS Apps](https://github.com/SusGalaxy/CoolOS/blob/main/Images/Cool%20OS%20X1-2023-02-28-15-47-08.png)
+
+### Contributors
+[Click here](https://github.com/SusGalaxy/CoolOS/graphs/contributors)
