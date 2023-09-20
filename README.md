@@ -1,3 +1,6 @@
+# THIS HAS BEEN MOVED.
+Please visit https://github.com/SLXUniverse/CoolOS
+
 # Cool OS
 Cool OS is **most coolest operating system.** Free and open-source software. Based on Ubuntu.
 
